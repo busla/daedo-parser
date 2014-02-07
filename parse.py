@@ -15,7 +15,7 @@ for root, dirs, files in os.walk(directory):
                     if words:
                         #print str(counter) + ': ' + lines[counter]
                         if words[0] == 'MATCH':
-                            match['Match number'] = str(words[3])
+                            match_number = str(words[3])
                             
                         if words[1] == 'THRESHOLD':
                             match['Minimum impact'] = str(words[3])
@@ -39,7 +39,7 @@ for root, dirs, files in os.walk(directory):
                             match['Winner'] = words[6]
                         
             
-            data['Bardaganúmer'].append(match)
+            data[match_number] = match
                             #print 'Úrslit: ' + string.split(lines[counter-2])[-1]
                         
             #if words[0] == 'TIME':
