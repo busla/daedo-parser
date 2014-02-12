@@ -3,20 +3,53 @@ import sys, string, os, json, re
 
 directory = os.getcwd()
 
-score_header = ['TIME',
+score_header = [
+                'TIME',
                 'PERIOD', 
                 'EVENT', 
-                'R-J1', 
+                'R-J1',
                 'R-j2', 
                 'R-j3', 
                 'R-HGU', 
                 'B-J1', 
                 'B-j2', 
-                'B-j3', 
+                'B-j3',
                 'B-HGU', 
                 'P-RED', 
                 'P-BLUE', 
-                'SCORE']
+                'SCORE'
+                ]
+                
+event_options = [
+                'Hogu',
+                'SCORE',
+                'BODY',
+                'HEAD'
+                ]
+
+def find_point(point):
+    point_type = {
+                    'BODY': 'Body',
+                    'HEAD': 'Head',
+                    'PUNCH': 'Punch'
+                    }
+    
+    return point_type.get(point)
+    
+def find_competitor(protector):
+    position = {
+                    76: 'Blue',
+                    48: 'Red',
+                    27: 'Red',
+                    34: 'Red',
+                    41: 'Red',
+                    55: 'Blue',
+                    62: 'Blue',
+                    69: 'Blue'               
+    }
+    
+    return position.get(protector)
+               
 data = {}
 start_matrix = False
 for root, dirs, files in os.walk(directory):
@@ -26,16 +59,19 @@ for root, dirs, files in os.walk(directory):
             lines = f.readlines()
             match = {}
             score = {} # Dict fyrir hverja tímasetning
+            ikey = 0
+            impact = []
             
             for counter, line in enumerate(lines):
-                    words = string.split(line)                    
+                    words = string.split(line)
+
                     # Ef línan er ekki tóm haltu þá áfram
                     if words:
                         if words[0] == 'MATCH':
                             match_number = str(words[3])
                             
                         if words[1] == 'THRESHOLD':
-                            match['Impact'] = str(words[3])
+                            match['Threshold'] = str(words[3])
 
                         if words[0] == 'START':
                             match['Start'] = str(words[3])
@@ -49,11 +85,42 @@ for root, dirs, files in os.walk(directory):
                             #print 'Blár: ' + words[3]
                         # ber saman score_header við staðsetningu í lúppu til að athuga hvort stigatafla sé að hefjast                        
                         if start_matrix:
-                            if words[2] == 'SCORE':
-                                point = {} # Sub-dict af score sem inniheldur body&head og stig sem var gefið
+                            point = {}
+                            
+                            if words[2] in event_options:
+                                if words[2] == 'Hogu':
+                                    if int(words[3]) < int(match['Threshold']):
+                                        point['Point'] = '0'
+                                        point['Impact'] = words[3]
+                                        point['Competitor'] = find_competitor(line.index('BODY')) # Hvað er char index´ið í línunn
+                                        point['Event'] = 'Body'
+
+                                    else:
+                                        impact.append(words[3])
+                                        
+                                    #match['Impact'] = event[1]
+                                    
+                                    
+                                if words[2] == 'SCORE':
+                                    if impact:
+                                        point['Impact'] = impact[0]
+                                        del impact[0]
+                                    elif not impact:
+                                        point['Impact'] = 'n/a'
+                                        
+                                    point['Competitor'] = find_competitor(line.index(words[3]))    
+                                    point['Event'] = find_point(words[3])
+                                    point['Point'] = words[-2]
+                                    
+                                    
+                                    
+                                    #if impact < match['Impact']:
+                                        #point = 0
+                                
+
                                 point['Time'] = words[0]
                                 point['Round'] = words[1]
-                                point['Event'] = words[2]
+                                
                                 point['Total'] = words[-1]
                                 score[key] = point
                                 match['Score'] = score
@@ -83,6 +150,8 @@ for root, dirs, files in os.walk(directory):
                 
         #label = string.split(line, ':')
         
+#list(reversed(sorted(data.keys())))
 print data
+
 with open("test.json", "w") as outfile:    
-    json.dump(data, outfile, indent=4, sort_keys=True, encoding='ISO-8859-1')
+    json.dump(data, outfile, indent=4, encoding='ISO-8859-1')

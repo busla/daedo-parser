@@ -4,19 +4,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>Bein úrslit af TKÍ Bikarmóti II - Íþróttahöll Aftureldingar í Mosfellsbæ</title>
 
-    <!-- Bootstrap -->
-<!-- Latest compiled and minified CSS -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<!--    <link href="tablesorter/css/theme.blue.css" rel="stylesheet">  -->
+<!-- DataTables CSS -->
+<!--     <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/css/jquery.dataTables.css">  -->
+ 
+<!-- jQuery -->
 
-<!-- Latest compiled and minified JavaScript -->
-    
-    
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->    <!-- Include all compiled plugins (below), or include individual files as needed -->
-
-
+ 
+<!-- DataTables -->
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -24,6 +23,10 @@
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     <style>
+     .popover {
+       max-width: 800px;
+       width: auto;
+     }
       html,
       body {
         height: 100%;
@@ -71,7 +74,7 @@
     <div class="jumbotron">
       <div class="container">
         <div class="page-header">
-          <h1>Beint frá TKÍ Bikarmóti II <small>Nýjustu úrslit</small></h1>
+          <h1>Úrslitavélin <small>Taekwondo úrslit í beint úr ofninum!</small></h1>
         </div>
       </div>
     </div>
@@ -80,36 +83,45 @@
       <div class="row">
         <div class="col-lg-12">
 
-          <div class="alert alert-info">Úrslitakerfið les log skrár úr <a href="http://www.daedopss.com" class="alert-link">bardagakerfinu</a> og birtir beint. Það er ekki hægt að breyta tölunum beint á vefnum. Það verður að breyta þeim í bardagakerfinu svo þær uppfærist hér.</div>
+          <div class="alert alert-info">Úrslitavélin les <em>log</em> skrár úr <a href="http://www.daedopss.com" class="alert-link">Daedo PSS</a> og birtir beint. Það er ekki hægt að breyta tölunum beint á vefnum. Það verður að breyta þeim í Daedo PSS svo þær uppfærist hér.</div>
           <div class="table-responsive">
-          <table id="records_table" class="table table-condensed">
+          <table id="matches" class="table table-condensed">
+            <thead>
             <tr>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Númer bardagans í Daedo bardagakerfinu" data-placement="top">Bardaganúmer</a></th>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Lágmarks höggþungi til að skora stig">Styrkleiki</a></th>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Keppandi í rauðri brynju">Rauður</a></th>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Keppandi í blárri brynju">Blár</a></th>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Klukkan hvað bardagi hófst">Hófst</a></th>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Klukkan hvað bardaga lauk">Lauk</a></th>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Rauður er vinstra meginn og blár hægra meginn">Úrslit</a></th>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Ekki gleyma að óska sigurvegaranum til hamingju.">Sigurvegari</a></th>
-              <th><a href="#" class="tooltip-table" data-toggle="tooltip" title="Skoða tímalínu stiga í bardaga">Tölfræði</a></th>
-              
+              <th class="sortInitialOrder-desc">Bardaganúmer</th>
+              <th>Styrkleiki</th>
+              <th>Rauður</th>
+              <th>Blár</th>
+              <th>Hófst</th>
+              <th>Lauk</th>
+              <th>Úrslit</th>
+              <th>Sigurvegari</th>
+              <th>Tölfræði</th>
             </tr>
+            </thead>
+            <tbody>
+            </tbody>
           </table>
           </div>
         </div>
       </div>
     </div>
-    <script src="https://code.jquery.com/jquery.js"></script>
-    <script src="bootstrap/js/bootstrap.min.js"></script>
-    <script src="bootstrap/js/bootstrap-tooltip.min.js"></script>
-    <script src="bikarmot-test.js"></script>  
+    
+
     </div>
 
     <div id="footer">
       <div class="container">
-        <p class="text-muted">Úrslitakerfið er gert af Jón Levy. Allt gert í <a href="http://www.python.org/">Python</a> með smá <a href="http://getbootstrap.com">Bootstrap</a> andlitsfarða. Sendu mér <a href="mailto:levito@gmail.com">línu</a> ef þér finnst þetta kúl.</p>
+        <h4 class="text-muted">Úrslitavélin er gerð af Jón Levy, með haug af <a href="http://www.python.org/">Python</a>, <a href="http://jquery.com/">jQuery</a> og sminkað með <a href="http://getbootstrap.com">Bootstrap</a>. Sendu mér <a href="mailto:levito@gmail.com">línu</a> ef þú fílar þetta. <div class="pull-right"><img  data-toggle="tooltip" title="Nammi namm, Úrslitavélin keyrir á Raspberry Pi" src="rasbpi-logo.png"></div></h4>
       </div>
     </div>    
+    
+    <script type="text/javascript" src="https://code.jquery.com/jquery.js"></script>    
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+        <script type="text/javascript" charset="utf8" src="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.4/jquery.dataTables.min.js"></script>
+
+    <script type="text/javascript" src="bikarmot-test.js"></script>
+
+
   </body>
 </html>
