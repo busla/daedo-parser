@@ -1,0 +1,721 @@
+
+      {
+        "Blue": "Kristmundur", 
+        "End": "14:49:35", 
+        "Winner": "Kristmundur", 
+        "Results": "2-14", 
+        "Start": "14:43:51",
+        "id": "214",  
+        "Score": {
+            "1": {
+                "Impact": "39", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": "1:46.00", 
+                "Total": "0-0", 
+                "Event": "Body"
+            }, 
+            "4": {
+                "Impact": "51", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-1", 
+                "Time": "1:46.00", 
+                "Total": "0-1", 
+                "Event": "Body"
+            }, 
+            "5": {
+                "Impact": "58", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-1", 
+                "Time": "1:46.00", 
+                "Total": "1-1", 
+                "Event": "Body"
+            }, 
+            "6": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":02.00", 
+                "Total": "1-1", 
+                "Event": "Penalty"
+            }, 
+            "7": {
+                "Impact": "37", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":29.00", 
+                "Total": "1-1", 
+                "Event": "Body"
+            }, 
+            "8": {
+                "Impact": "4", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":29.00", 
+                "Total": "1-1", 
+                "Event": "Body"
+            }, 
+            "10": {
+                "Impact": "52", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-1", 
+                "Time": ":21.00", 
+                "Total": "1-2", 
+                "Event": "Body"
+            }, 
+            "11": {
+                "Impact": "9", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":16.00", 
+                "Total": "1-2", 
+                "Event": "Body"
+            }, 
+            "13": {
+                "Impact": "40", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-1", 
+                "Time": ":12.00", 
+                "Total": "1-3", 
+                "Event": "Body"
+            }, 
+            "14": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":04.00", 
+                "Total": "1-3", 
+                "Event": "Penalty"
+            }, 
+            "15": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "3", 
+                "Round": "R-2", 
+                "Time": "1:44.00", 
+                "Total": "1-6", 
+                "Event": "Head"
+            }, 
+            "16": {
+                "Impact": "16", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": "1:08.00", 
+                "Total": "1-7", 
+                "Event": "Body"
+            }, 
+            "17": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "3", 
+                "Round": "R-2", 
+                "Time": "1:06.99", 
+                "Total": "1-10", 
+                "Event": "Head"
+            }, 
+            "18": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": "1:05.99", 
+                "Total": "1-11", 
+                "Event": "Punch"
+            }, 
+            "20": {
+                "Impact": "54", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": ":58.00", 
+                "Total": "1-12", 
+                "Event": "Body"
+            }, 
+            "21": {
+                "Impact": "30", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":46.00", 
+                "Total": "1-12", 
+                "Event": "Body"
+            }, 
+            "22": {
+                "Impact": "14", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":45.00", 
+                "Total": "1-12", 
+                "Event": "Body"
+            }, 
+            "24": {
+                "Impact": "59", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": ":36.00", 
+                "Total": "1-13", 
+                "Event": "Body"
+            }, 
+            "26": {
+                "Impact": "45", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": ":26.00", 
+                "Total": "1-14", 
+                "Event": "Body"
+            }, 
+            "28": {
+                "Impact": "38", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":07.00", 
+                "Total": "1-14", 
+                "Event": "Body"
+            }, 
+            "29": {
+                "Impact": "46", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": ":07.00", 
+                "Total": "2-14", 
+                "Event": "Body"
+            }
+        }, 
+        "Threshold": "40", 
+        "Red": "Bj\u00f6rn"
+    }, 
+    {
+        "Blue": "Helgi",
+        "id": "213",
+        "End": "14:42:04", 
+        "Winner": "Helgi", 
+        "Results": "12-17", 
+        "Start": "14:30:30", 
+        "Score": {
+            "1": {
+                "Impact": "30", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": "1:54.00", 
+                "Total": "0-0", 
+                "Event": "Body"
+            }, 
+            "3": {
+                "Impact": "47", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-1", 
+                "Time": "1:54.00", 
+                "Total": "1-0", 
+                "Event": "Body"
+            }, 
+            "4": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "3", 
+                "Round": "R-1", 
+                "Time": "1:52.99", 
+                "Total": "1-3", 
+                "Event": "Head"
+            }, 
+            "5": {
+                "Impact": "27", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": "1:52.00", 
+                "Total": "1-3", 
+                "Event": "Body"
+            }, 
+            "6": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":05.00", 
+                "Total": "1-3", 
+                "Event": "Penalty"
+            }, 
+            "8": {
+                "Impact": "47", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-1", 
+                "Time": "1:33.00", 
+                "Total": "2-6", 
+                "Event": "Body"
+            }, 
+            "10": {
+                "Impact": "40", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-1", 
+                "Time": "1:28.99", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "11": {
+                "Impact": "23", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": "1:23.00", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "12": {
+                "Impact": "11", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": "1:19.00", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "13": {
+                "Impact": "20", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":50.00", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "14": {
+                "Impact": "39", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":28.00", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "15": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "2-7", 
+                "Event": "Penalty"
+            }, 
+            "16": {
+                "Impact": "9", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":13.99", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "17": {
+                "Impact": "10", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":13.99", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "18": {
+                "Impact": "10", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":13.99", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "19": {
+                "Impact": "9", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":05.00", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "20": {
+                "Impact": "27", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": "1:57.99", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "22": {
+                "Impact": "40", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": "1:54.97", 
+                "Total": "3-7", 
+                "Event": "Body"
+            }, 
+            "24": {
+                "Impact": "56", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": "1:51.00", 
+                "Total": "3-8", 
+                "Event": "Body"
+            }, 
+            "26": {
+                "Impact": "51", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": "1:36.00", 
+                "Total": "4-8", 
+                "Event": "Body"
+            }, 
+            "27": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": "1:35.00", 
+                "Total": "5-8", 
+                "Event": null
+            }, 
+            "28": {
+                "Impact": "14", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": "1:30.99", 
+                "Total": "5-8", 
+                "Event": "Body"
+            }, 
+            "29": {
+                "Impact": "39", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": "1:02.00", 
+                "Total": "5-8", 
+                "Event": "Body"
+            }, 
+            "30": {
+                "Impact": "23", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":55.00", 
+                "Total": "5-8", 
+                "Event": "Body"
+            }, 
+            "31": {
+                "Impact": "19", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":47.00", 
+                "Total": "5-8", 
+                "Event": "Body"
+            }, 
+            "32": {
+                "Impact": "39", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":46.00", 
+                "Total": "5-8", 
+                "Event": "Body"
+            }, 
+            "33": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":02.00", 
+                "Total": "5-9", 
+                "Event": "Penalty"
+            }, 
+            "34": {
+                "Impact": "17", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":40.00", 
+                "Total": "5-9", 
+                "Event": "Body"
+            }, 
+            "35": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "3", 
+                "Round": "R-2", 
+                "Time": ":33.00", 
+                "Total": "8-9", 
+                "Event": "Head"
+            }, 
+            "36": {
+                "Impact": "11", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":21.00", 
+                "Total": "8-9", 
+                "Event": "Body"
+            }, 
+            "37": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "3", 
+                "Round": "R-2", 
+                "Time": ":20.00", 
+                "Total": "8-12", 
+                "Event": "Head"
+            }, 
+            "38": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": ":18.98", 
+                "Total": "8-13", 
+                "Event": "Punch"
+            }, 
+            "39": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "9-13", 
+                "Event": "Penalty"
+            }, 
+            "40": {
+                "Impact": "32", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":12.99", 
+                "Total": "9-13", 
+                "Event": "Body"
+            }, 
+            "41": {
+                "Impact": "13", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "REST", 
+                "Time": ":30.00", 
+                "Total": "9-13", 
+                "Event": "Body"
+            }, 
+            "42": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "3", 
+                "Round": "R-3", 
+                "Time": "1:45.00", 
+                "Total": "12-13", 
+                "Event": "Head"
+            }, 
+            "43": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":06.00", 
+                "Total": "12-13", 
+                "Event": "Penalty"
+            }, 
+            "45": {
+                "Impact": "52", 
+                "Competitor": "Blue", 
+                "Point": "1", 
+                "Round": "R-3", 
+                "Time": "1:32.00", 
+                "Total": "12-14", 
+                "Event": "Body"
+            }, 
+            "46": {
+                "Impact": "18", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-3", 
+                "Time": "1:23.00", 
+                "Total": "12-14", 
+                "Event": "Body"
+            }, 
+            "47": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "12-14", 
+                "Event": "Penalty"
+            }, 
+            "48": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "3", 
+                "Round": "R-3", 
+                "Time": ":50.00", 
+                "Total": "12-17", 
+                "Event": "Head"
+            }
+        }, 
+        "Threshold": "40", 
+        "Red": "Ari"
+    }, 
+    {
+        "Blue": "Helgi",
+        "id": "210", 
+        "End": "14:14:15", 
+        "Winner": "Kristmundur", 
+        "Results": "16-4", 
+        "Start": "14:07:38", 
+        "Score": {
+            "1": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":04.00", 
+                "Total": "0-0", 
+                "Event": "Penalty"
+            }, 
+            "2": {
+                "Impact": "29", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":45.00", 
+                "Total": "0-0", 
+                "Event": "Body"
+            }, 
+            "3": {
+                "Impact": "39", 
+                "Competitor": "Red", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":37.00", 
+                "Total": "0-0", 
+                "Event": "Body"
+            }, 
+            "5": {
+                "Impact": "56", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-1", 
+                "Time": ":19.00", 
+                "Total": "1-0", 
+                "Event": "Body"
+            }, 
+            "6": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "3", 
+                "Round": "R-1", 
+                "Time": ":04.00", 
+                "Total": "4-0", 
+                "Event": "Head"
+            }, 
+            "7": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "3", 
+                "Round": "R-2", 
+                "Time": "1:57.99", 
+                "Total": "7-0", 
+                "Event": "Head"
+            }, 
+            "8": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": "1:33.00", 
+                "Total": "8-0", 
+                "Event": "Punch"
+            }, 
+            "10": {
+                "Impact": "46", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": "1:33.00", 
+                "Total": "9-0", 
+                "Event": "Body"
+            }, 
+            "11": {
+                "Impact": "28", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": "1:33.00", 
+                "Total": "9-0", 
+                "Event": "Body"
+            }, 
+            "12": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "3", 
+                "Round": "R-2", 
+                "Time": "1:13.00", 
+                "Total": "9-3", 
+                "Event": "Head"
+            }, 
+            "13": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "3", 
+                "Round": "R-2", 
+                "Time": "1:08.00", 
+                "Total": "12-4", 
+                "Event": "Head"
+            }, 
+            "15": {
+                "Impact": "59", 
+                "Competitor": "Red", 
+                "Point": "1", 
+                "Round": "R-2", 
+                "Time": "1:03.00", 
+                "Total": "13-4", 
+                "Event": "Body"
+            }, 
+            "16": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "3", 
+                "Round": "R-2", 
+                "Time": ":25.00", 
+                "Total": "16-4", 
+                "Event": "Head"
+            }, 
+            "17": {
+                "Impact": "17", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-2", 
+                "Time": ":10.00", 
+                "Total": "16-4", 
+                "Event": "Body"
+            }
+        }, 
+        "Threshold": "40", 
+        "Red": "Kristmundur"
+    }

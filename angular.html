@@ -1,0 +1,46 @@
+
+
+<!doctype html>
+<html lang="en" ng-app="tkdApp">
+<head>
+  <meta charset="utf-8">
+  <title>Google Phone Gallery</title>
+    <script src="http://code.angularjs.org/1.2.12/angular.min.js"></script>
+    <script src="js/controllers.js"></script>
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="bikarmot.js"></script>
+
+</head>
+<body ng-controller="FightListCtrl">
+
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span2">
+        <!--Sidebar content-->
+
+        Search: <input ng-model="query">
+        Sort by:
+        <select ng-model="orderProp">
+          <option value="Start">Start time</option>
+          <option value="End">End time</option>
+        </select>
+
+      </div>
+      <div class="span10">
+        <!--Body content-->
+
+        <ul class="phones">
+          <li ng-repeat="fight in fights | filter:query | orderBy:orderProp" class="thumbnail">
+            <a href="#/fights/{{fight.id}}">{{fight.id}}</a>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

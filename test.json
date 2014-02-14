@@ -15,16 +15,6 @@
                 "Total": "0-0", 
                 "Event": "Body"
             }, 
-            "2": {
-                "Total": "0-0", 
-                "Round": "R-1", 
-                "Time": "1:46.00"
-            }, 
-            "3": {
-                "Total": "0-0", 
-                "Round": "R-1", 
-                "Time": "1:46.00"
-            }, 
             "4": {
                 "Impact": "51", 
                 "Competitor": "Blue", 
@@ -35,7 +25,7 @@
                 "Event": "Body"
             }, 
             "5": {
-                "Impact": "51", 
+                "Impact": "58", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -44,6 +34,15 @@
                 "Event": "Body"
             }, 
             "6": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":02.00", 
+                "Total": "1-1", 
+                "Event": "Penalty"
+            }, 
+            "7": {
                 "Impact": "37", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -52,7 +51,7 @@
                 "Total": "1-1", 
                 "Event": "Body"
             }, 
-            "7": {
+            "8": {
                 "Impact": "4", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -61,13 +60,8 @@
                 "Total": "1-1", 
                 "Event": "Body"
             }, 
-            "8": {
-                "Total": "1-1", 
-                "Round": "R-1", 
-                "Time": ":21.00"
-            }, 
-            "9": {
-                "Impact": "51", 
+            "10": {
+                "Impact": "52", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -75,7 +69,7 @@
                 "Total": "1-2", 
                 "Event": "Body"
             }, 
-            "10": {
+            "11": {
                 "Impact": "9", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -84,13 +78,8 @@
                 "Total": "1-2", 
                 "Event": "Body"
             }, 
-            "11": {
-                "Total": "1-2", 
-                "Round": "R-1", 
-                "Time": ":12.00"
-            }, 
-            "12": {
-                "Impact": "51", 
+            "13": {
+                "Impact": "40", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -98,8 +87,17 @@
                 "Total": "1-3", 
                 "Event": "Body"
             }, 
-            "13": {
-                "Impact": "51", 
+            "14": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":04.00", 
+                "Total": "1-3", 
+                "Event": "Penalty"
+            }, 
+            "15": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -107,7 +105,7 @@
                 "Total": "1-6", 
                 "Event": "Head"
             }, 
-            "14": {
+            "16": {
                 "Impact": "16", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -116,8 +114,8 @@
                 "Total": "1-7", 
                 "Event": "Body"
             }, 
-            "15": {
-                "Impact": "51", 
+            "17": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -125,8 +123,8 @@
                 "Total": "1-10", 
                 "Event": "Head"
             }, 
-            "16": {
-                "Impact": "51", 
+            "18": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -134,13 +132,8 @@
                 "Total": "1-11", 
                 "Event": "Punch"
             }, 
-            "17": {
-                "Total": "1-11", 
-                "Round": "R-2", 
-                "Time": ":58.00"
-            }, 
-            "18": {
-                "Impact": "51", 
+            "20": {
+                "Impact": "54", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -148,7 +141,7 @@
                 "Total": "1-12", 
                 "Event": "Body"
             }, 
-            "19": {
+            "21": {
                 "Impact": "30", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -157,7 +150,7 @@
                 "Total": "1-12", 
                 "Event": "Body"
             }, 
-            "20": {
+            "22": {
                 "Impact": "14", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -166,13 +159,8 @@
                 "Total": "1-12", 
                 "Event": "Body"
             }, 
-            "21": {
-                "Total": "1-12", 
-                "Round": "R-2", 
-                "Time": ":36.00"
-            }, 
-            "22": {
-                "Impact": "51", 
+            "24": {
+                "Impact": "59", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -180,13 +168,8 @@
                 "Total": "1-13", 
                 "Event": "Body"
             }, 
-            "23": {
-                "Total": "1-13", 
-                "Round": "R-2", 
-                "Time": ":26.00"
-            }, 
-            "24": {
-                "Impact": "51", 
+            "26": {
+                "Impact": "45", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -194,12 +177,7 @@
                 "Total": "1-14", 
                 "Event": "Body"
             }, 
-            "25": {
-                "Total": "1-14", 
-                "Round": "R-2", 
-                "Time": ":07.00"
-            }, 
-            "26": {
+            "28": {
                 "Impact": "38", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -208,8 +186,8 @@
                 "Total": "1-14", 
                 "Event": "Body"
             }, 
-            "27": {
-                "Impact": "51", 
+            "29": {
+                "Impact": "46", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -237,11 +215,6 @@
                 "Total": "0-0", 
                 "Event": "Body"
             }, 
-            "2": {
-                "Total": "0-0", 
-                "Round": "R-1", 
-                "Time": "1:54.00"
-            }, 
             "3": {
                 "Impact": "47", 
                 "Competitor": "Red", 
@@ -252,7 +225,7 @@
                 "Event": "Body"
             }, 
             "4": {
-                "Impact": "47", 
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-1", 
@@ -270,11 +243,15 @@
                 "Event": "Body"
             }, 
             "6": {
-                "Total": "1-6", 
-                "Round": "R-1", 
-                "Time": "1:33.00"
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":05.00", 
+                "Total": "1-3", 
+                "Event": "Penalty"
             }, 
-            "7": {
+            "8": {
                 "Impact": "47", 
                 "Competitor": "Red", 
                 "Point": "1", 
@@ -283,13 +260,8 @@
                 "Total": "2-6", 
                 "Event": "Body"
             }, 
-            "8": {
-                "Total": "2-6", 
-                "Round": "R-1", 
-                "Time": "1:28.99"
-            }, 
-            "9": {
-                "Impact": "47", 
+            "10": {
+                "Impact": "40", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -297,7 +269,7 @@
                 "Total": "2-7", 
                 "Event": "Body"
             }, 
-            "10": {
+            "11": {
                 "Impact": "23", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -306,7 +278,7 @@
                 "Total": "2-7", 
                 "Event": "Body"
             }, 
-            "11": {
+            "12": {
                 "Impact": "11", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -315,7 +287,7 @@
                 "Total": "2-7", 
                 "Event": "Body"
             }, 
-            "12": {
+            "13": {
                 "Impact": "20", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -324,7 +296,7 @@
                 "Total": "2-7", 
                 "Event": "Body"
             }, 
-            "13": {
+            "14": {
                 "Impact": "39", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -333,26 +305,17 @@
                 "Total": "2-7", 
                 "Event": "Body"
             }, 
-            "14": {
-                "Impact": "9", 
-                "Competitor": "Blue", 
-                "Point": "0", 
-                "Round": "R-1", 
-                "Time": ":13.99", 
-                "Total": "2-7", 
-                "Event": "Body"
-            }, 
             "15": {
-                "Impact": "10", 
+                "Impact": "-", 
                 "Competitor": "Blue", 
-                "Point": "0", 
-                "Round": "R-1", 
-                "Time": ":13.99", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
                 "Total": "2-7", 
-                "Event": "Body"
+                "Event": "Penalty"
             }, 
             "16": {
-                "Impact": "10", 
+                "Impact": "9", 
                 "Competitor": "Blue", 
                 "Point": "0", 
                 "Round": "R-1", 
@@ -361,6 +324,24 @@
                 "Event": "Body"
             }, 
             "17": {
+                "Impact": "10", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":13.99", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "18": {
+                "Impact": "10", 
+                "Competitor": "Blue", 
+                "Point": "0", 
+                "Round": "R-1", 
+                "Time": ":13.99", 
+                "Total": "2-7", 
+                "Event": "Body"
+            }, 
+            "19": {
                 "Impact": "9", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -369,7 +350,7 @@
                 "Total": "2-7", 
                 "Event": "Body"
             }, 
-            "18": {
+            "20": {
                 "Impact": "27", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -378,13 +359,8 @@
                 "Total": "2-7", 
                 "Event": "Body"
             }, 
-            "19": {
-                "Total": "2-7", 
-                "Round": "R-2", 
-                "Time": "1:56.00"
-            }, 
-            "20": {
-                "Impact": "47", 
+            "22": {
+                "Impact": "40", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -392,13 +368,8 @@
                 "Total": "3-7", 
                 "Event": "Body"
             }, 
-            "21": {
-                "Total": "3-7", 
-                "Round": "R-2", 
-                "Time": "1:51.00"
-            }, 
-            "22": {
-                "Impact": "47", 
+            "24": {
+                "Impact": "56", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -406,13 +377,8 @@
                 "Total": "3-8", 
                 "Event": "Body"
             }, 
-            "23": {
-                "Total": "3-8", 
-                "Round": "R-2", 
-                "Time": "1:36.00"
-            }, 
-            "24": {
-                "Impact": "47", 
+            "26": {
+                "Impact": "51", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -420,8 +386,8 @@
                 "Total": "4-8", 
                 "Event": "Body"
             }, 
-            "25": {
-                "Impact": "47", 
+            "27": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -429,7 +395,7 @@
                 "Total": "5-8", 
                 "Event": null
             }, 
-            "26": {
+            "28": {
                 "Impact": "14", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -438,7 +404,7 @@
                 "Total": "5-8", 
                 "Event": "Body"
             }, 
-            "27": {
+            "29": {
                 "Impact": "39", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -447,7 +413,7 @@
                 "Total": "5-8", 
                 "Event": "Body"
             }, 
-            "28": {
+            "30": {
                 "Impact": "23", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -456,7 +422,7 @@
                 "Total": "5-8", 
                 "Event": "Body"
             }, 
-            "29": {
+            "31": {
                 "Impact": "19", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -465,7 +431,7 @@
                 "Total": "5-8", 
                 "Event": "Body"
             }, 
-            "30": {
+            "32": {
                 "Impact": "39", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -474,7 +440,16 @@
                 "Total": "5-8", 
                 "Event": "Body"
             }, 
-            "31": {
+            "33": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":02.00", 
+                "Total": "5-9", 
+                "Event": "Penalty"
+            }, 
+            "34": {
                 "Impact": "17", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -483,8 +458,8 @@
                 "Total": "5-9", 
                 "Event": "Body"
             }, 
-            "32": {
-                "Impact": "47", 
+            "35": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -492,7 +467,7 @@
                 "Total": "8-9", 
                 "Event": "Head"
             }, 
-            "33": {
+            "36": {
                 "Impact": "11", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -501,8 +476,8 @@
                 "Total": "8-9", 
                 "Event": "Body"
             }, 
-            "34": {
-                "Impact": "47", 
+            "37": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -510,8 +485,8 @@
                 "Total": "8-12", 
                 "Event": "Head"
             }, 
-            "35": {
-                "Impact": "47", 
+            "38": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -519,7 +494,16 @@
                 "Total": "8-13", 
                 "Event": "Punch"
             }, 
-            "36": {
+            "39": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "9-13", 
+                "Event": "Penalty"
+            }, 
+            "40": {
                 "Impact": "32", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -528,7 +512,7 @@
                 "Total": "9-13", 
                 "Event": "Body"
             }, 
-            "37": {
+            "41": {
                 "Impact": "13", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -537,8 +521,8 @@
                 "Total": "9-13", 
                 "Event": "Body"
             }, 
-            "38": {
-                "Impact": "47", 
+            "42": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-3", 
@@ -546,13 +530,17 @@
                 "Total": "12-13", 
                 "Event": "Head"
             }, 
-            "39": {
+            "43": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":06.00", 
                 "Total": "12-13", 
-                "Round": "R-3", 
-                "Time": "1:32.00"
+                "Event": "Penalty"
             }, 
-            "40": {
-                "Impact": "47", 
+            "45": {
+                "Impact": "52", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -560,7 +548,7 @@
                 "Total": "12-14", 
                 "Event": "Body"
             }, 
-            "41": {
+            "46": {
                 "Impact": "18", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -569,8 +557,17 @@
                 "Total": "12-14", 
                 "Event": "Body"
             }, 
-            "42": {
-                "Impact": "47", 
+            "47": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "12-14", 
+                "Event": "Penalty"
+            }, 
+            "48": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-3", 
@@ -590,6 +587,15 @@
         "Start": "14:07:38", 
         "Score": {
             "1": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":04.00", 
+                "Total": "0-0", 
+                "Event": "Penalty"
+            }, 
+            "2": {
                 "Impact": "29", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -598,7 +604,7 @@
                 "Total": "0-0", 
                 "Event": "Body"
             }, 
-            "2": {
+            "3": {
                 "Impact": "39", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -607,12 +613,7 @@
                 "Total": "0-0", 
                 "Event": "Body"
             }, 
-            "3": {
-                "Total": "0-0", 
-                "Round": "R-1", 
-                "Time": ":19.00"
-            }, 
-            "4": {
+            "5": {
                 "Impact": "56", 
                 "Competitor": "Red", 
                 "Point": "1", 
@@ -621,8 +622,8 @@
                 "Total": "1-0", 
                 "Event": "Body"
             }, 
-            "5": {
-                "Impact": "56", 
+            "6": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-1", 
@@ -630,8 +631,8 @@
                 "Total": "4-0", 
                 "Event": "Head"
             }, 
-            "6": {
-                "Impact": "56", 
+            "7": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -639,8 +640,8 @@
                 "Total": "7-0", 
                 "Event": "Head"
             }, 
-            "7": {
-                "Impact": "56", 
+            "8": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -648,13 +649,8 @@
                 "Total": "8-0", 
                 "Event": "Punch"
             }, 
-            "8": {
-                "Total": "8-0", 
-                "Round": "R-2", 
-                "Time": "1:33.00"
-            }, 
-            "9": {
-                "Impact": "56", 
+            "10": {
+                "Impact": "46", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -662,7 +658,7 @@
                 "Total": "9-0", 
                 "Event": "Body"
             }, 
-            "10": {
+            "11": {
                 "Impact": "28", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -671,8 +667,8 @@
                 "Total": "9-0", 
                 "Event": "Body"
             }, 
-            "11": {
-                "Impact": "56", 
+            "12": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -680,8 +676,8 @@
                 "Total": "9-3", 
                 "Event": "Head"
             }, 
-            "12": {
-                "Impact": "56", 
+            "13": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -689,13 +685,8 @@
                 "Total": "12-4", 
                 "Event": "Head"
             }, 
-            "13": {
-                "Total": "12-4", 
-                "Round": "R-2", 
-                "Time": "1:03.00"
-            }, 
-            "14": {
-                "Impact": "56", 
+            "15": {
+                "Impact": "59", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -703,8 +694,8 @@
                 "Total": "13-4", 
                 "Event": "Body"
             }, 
-            "15": {
-                "Impact": "56", 
+            "16": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -712,7 +703,7 @@
                 "Total": "16-4", 
                 "Event": "Head"
             }, 
-            "16": {
+            "17": {
                 "Impact": "17", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -732,11 +723,6 @@
         "Results": "24-13", 
         "Start": "14:16:59", 
         "Score": {
-            "1": {
-                "Total": "0-0", 
-                "Round": "R-1", 
-                "Time": "1:52.99"
-            }, 
             "2": {
                 "Impact": "54", 
                 "Competitor": "Blue", 
@@ -764,13 +750,8 @@
                 "Total": "0-1", 
                 "Event": "Body"
             }, 
-            "5": {
-                "Total": "0-1", 
-                "Round": "R-1", 
-                "Time": ":46.00"
-            }, 
             "6": {
-                "Impact": "54", 
+                "Impact": "42", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -778,13 +759,8 @@
                 "Total": "0-2", 
                 "Event": "Body"
             }, 
-            "7": {
-                "Total": "0-2", 
-                "Round": "R-1", 
-                "Time": ":37.00"
-            }, 
             "8": {
-                "Impact": "54", 
+                "Impact": "52", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -793,12 +769,16 @@
                 "Event": "Body"
             }, 
             "9": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":04.00", 
                 "Total": "1-2", 
-                "Round": "R-1", 
-                "Time": ":29.00"
+                "Event": "Penalty"
             }, 
-            "10": {
-                "Impact": "54", 
+            "11": {
+                "Impact": "55", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -806,8 +786,8 @@
                 "Total": "2-2", 
                 "Event": "Body"
             }, 
-            "11": {
-                "Impact": "54", 
+            "12": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -815,13 +795,8 @@
                 "Total": "2-3", 
                 "Event": "Punch"
             }, 
-            "12": {
-                "Total": "2-3", 
-                "Round": "R-1", 
-                "Time": ":24.00"
-            }, 
-            "13": {
-                "Impact": "54", 
+            "14": {
+                "Impact": "52", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -829,13 +804,8 @@
                 "Total": "3-3", 
                 "Event": "Body"
             }, 
-            "14": {
-                "Total": "3-3", 
-                "Round": "R-1", 
-                "Time": ":24.00"
-            }, 
-            "15": {
-                "Impact": "54", 
+            "16": {
+                "Impact": "57", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -843,8 +813,17 @@
                 "Total": "4-3", 
                 "Event": "Body"
             }, 
-            "16": {
-                "Impact": "54", 
+            "17": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "4-3", 
+                "Event": "Penalty"
+            }, 
+            "18": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -852,13 +831,8 @@
                 "Total": "4-4", 
                 "Event": "Punch"
             }, 
-            "17": {
-                "Total": "4-4", 
-                "Round": "R-2", 
-                "Time": "1:58.00"
-            }, 
-            "18": {
-                "Impact": "54", 
+            "20": {
+                "Impact": "55", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -866,7 +840,7 @@
                 "Total": "5-4", 
                 "Event": "Body"
             }, 
-            "19": {
+            "21": {
                 "Impact": "35", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -875,8 +849,8 @@
                 "Total": "5-4", 
                 "Event": "Body"
             }, 
-            "20": {
-                "Impact": "54", 
+            "22": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -884,8 +858,8 @@
                 "Total": "5-5", 
                 "Event": "Punch"
             }, 
-            "21": {
-                "Impact": "54", 
+            "23": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -893,13 +867,8 @@
                 "Total": "5-6", 
                 "Event": "Punch"
             }, 
-            "22": {
-                "Total": "5-6", 
-                "Round": "R-2", 
-                "Time": "1:47.00"
-            }, 
-            "23": {
-                "Impact": "54", 
+            "25": {
+                "Impact": "43", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -907,13 +876,8 @@
                 "Total": "6-6", 
                 "Event": "Body"
             }, 
-            "24": {
-                "Total": "6-6", 
-                "Round": "R-2", 
-                "Time": "1:42.00"
-            }, 
-            "25": {
-                "Impact": "54", 
+            "27": {
+                "Impact": "58", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -921,7 +885,7 @@
                 "Total": "7-6", 
                 "Event": "Body"
             }, 
-            "26": {
+            "28": {
                 "Impact": "30", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -930,8 +894,8 @@
                 "Total": "7-6", 
                 "Event": "Body"
             }, 
-            "27": {
-                "Impact": "54", 
+            "29": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -939,7 +903,16 @@
                 "Total": "7-7", 
                 "Event": "Punch"
             }, 
-            "28": {
+            "30": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "8-7", 
+                "Event": "Penalty"
+            }, 
+            "31": {
                 "Impact": "37", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -948,13 +921,8 @@
                 "Total": "8-7", 
                 "Event": "Body"
             }, 
-            "29": {
-                "Total": "8-7", 
-                "Round": "R-2", 
-                "Time": "1:13.00"
-            }, 
-            "30": {
-                "Impact": "54", 
+            "33": {
+                "Impact": "49", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -962,8 +930,17 @@
                 "Total": "9-7", 
                 "Event": "Body"
             }, 
-            "31": {
-                "Impact": "54", 
+            "34": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "9-7", 
+                "Event": "Penalty"
+            }, 
+            "35": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -971,8 +948,17 @@
                 "Total": "9-8", 
                 "Event": "Punch"
             }, 
-            "32": {
-                "Impact": "54", 
+            "36": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "10-8", 
+                "Event": "Penalty"
+            }, 
+            "37": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -980,13 +966,17 @@
                 "Total": "10-9", 
                 "Event": "Punch"
             }, 
-            "33": {
+            "38": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "REDY", 
+                "Time": ":00.00", 
                 "Total": "10-10", 
-                "Round": "R-3", 
-                "Time": "1:58.00"
+                "Event": "Penalty"
             }, 
-            "34": {
-                "Impact": "54", 
+            "40": {
+                "Impact": "62", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -994,13 +984,8 @@
                 "Total": "11-10", 
                 "Event": "Body"
             }, 
-            "35": {
-                "Total": "11-10", 
-                "Round": "R-3", 
-                "Time": "1:54.00"
-            }, 
-            "36": {
-                "Impact": "54", 
+            "42": {
+                "Impact": "56", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1008,13 +993,8 @@
                 "Total": "12-10", 
                 "Event": "Body"
             }, 
-            "37": {
-                "Total": "12-10", 
-                "Round": "R-3", 
-                "Time": "1:48.99"
-            }, 
-            "38": {
-                "Impact": "54", 
+            "44": {
+                "Impact": "66", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1022,8 +1002,8 @@
                 "Total": "13-10", 
                 "Event": "Body"
             }, 
-            "39": {
-                "Impact": "54", 
+            "45": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-3", 
@@ -1031,13 +1011,17 @@
                 "Total": "16-10", 
                 "Event": "Head"
             }, 
-            "40": {
+            "46": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":02.00", 
                 "Total": "16-10", 
-                "Round": "R-3", 
-                "Time": "1:38.00"
+                "Event": "Penalty"
             }, 
-            "41": {
-                "Impact": "54", 
+            "48": {
+                "Impact": "52", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1045,7 +1029,7 @@
                 "Total": "17-10", 
                 "Event": "Body"
             }, 
-            "42": {
+            "49": {
                 "Impact": "33", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1054,13 +1038,17 @@
                 "Total": "17-10", 
                 "Event": "Body"
             }, 
-            "43": {
+            "50": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":05.00", 
                 "Total": "17-10", 
-                "Round": "R-3", 
-                "Time": "1:31.99"
+                "Event": "Penalty"
             }, 
-            "44": {
-                "Impact": "54", 
+            "52": {
+                "Impact": "58", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1068,8 +1056,17 @@
                 "Total": "18-10", 
                 "Event": "Body"
             }, 
-            "45": {
-                "Impact": "54", 
+            "53": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "18-11", 
+                "Event": "Penalty"
+            }, 
+            "54": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1077,13 +1074,17 @@
                 "Total": "19-11", 
                 "Event": "Punch"
             }, 
-            "46": {
+            "55": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
                 "Total": "19-11", 
-                "Round": "R-3", 
-                "Time": "1:09.00"
+                "Event": "Penalty"
             }, 
-            "47": {
-                "Impact": "54", 
+            "57": {
+                "Impact": "61", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1091,8 +1092,17 @@
                 "Total": "20-11", 
                 "Event": "Body"
             }, 
-            "48": {
-                "Impact": "54", 
+            "58": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":04.00", 
+                "Total": "21-11", 
+                "Event": "Penalty"
+            }, 
+            "59": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1100,13 +1110,8 @@
                 "Total": "21-12", 
                 "Event": "Punch"
             }, 
-            "49": {
-                "Total": "21-12", 
-                "Round": "R-3", 
-                "Time": ":52.00"
-            }, 
-            "50": {
-                "Impact": "54", 
+            "61": {
+                "Impact": "51", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1114,7 +1119,16 @@
                 "Total": "22-12", 
                 "Event": "Body"
             }, 
-            "51": {
+            "62": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":04.00", 
+                "Total": "22-12", 
+                "Event": "Penalty"
+            }, 
+            "63": {
                 "Impact": "24", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1123,13 +1137,8 @@
                 "Total": "22-12", 
                 "Event": "Body"
             }, 
-            "52": {
-                "Total": "22-12", 
-                "Round": "R-3", 
-                "Time": ":43.00"
-            }, 
-            "53": {
-                "Impact": "54", 
+            "65": {
+                "Impact": "46", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1137,13 +1146,8 @@
                 "Total": "23-12", 
                 "Event": "Body"
             }, 
-            "54": {
-                "Total": "23-12", 
-                "Round": "R-3", 
-                "Time": ":17.99"
-            }, 
-            "55": {
-                "Impact": "54", 
+            "67": {
+                "Impact": "44", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1151,7 +1155,7 @@
                 "Total": "23-13", 
                 "Event": "Body"
             }, 
-            "56": {
+            "68": {
                 "Impact": "21", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1159,6 +1163,15 @@
                 "Time": ":17.99", 
                 "Total": "23-13", 
                 "Event": "Body"
+            }, 
+            "69": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "24-13", 
+                "Event": "Penalty"
             }
         }, 
         "Threshold": "41", 
@@ -1180,16 +1193,6 @@
                 "Total": "0-0", 
                 "Event": "Body"
             }, 
-            "2": {
-                "Total": "0-0", 
-                "Round": "R-1", 
-                "Time": "1:38.00"
-            }, 
-            "3": {
-                "Total": "0-0", 
-                "Round": "R-1", 
-                "Time": "1:36.97"
-            }, 
             "4": {
                 "Impact": "49", 
                 "Competitor": "Red", 
@@ -1200,7 +1203,7 @@
                 "Event": "Body"
             }, 
             "5": {
-                "Impact": "49", 
+                "Impact": "50", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1217,13 +1220,8 @@
                 "Total": "1-1", 
                 "Event": "Body"
             }, 
-            "7": {
-                "Total": "1-1", 
-                "Round": "R-1", 
-                "Time": "1:27.00"
-            }, 
             "8": {
-                "Impact": "49", 
+                "Impact": "48", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1231,13 +1229,8 @@
                 "Total": "2-1", 
                 "Event": "Body"
             }, 
-            "9": {
-                "Total": "2-1", 
-                "Round": "R-1", 
-                "Time": "1:12.00"
-            }, 
             "10": {
-                "Impact": "49", 
+                "Impact": "58", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1246,7 +1239,7 @@
                 "Event": "Body"
             }, 
             "11": {
-                "Impact": "49", 
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1254,13 +1247,8 @@
                 "Total": "2-3", 
                 "Event": null
             }, 
-            "12": {
-                "Total": "2-3", 
-                "Round": "R-1", 
-                "Time": "1:02.00"
-            }, 
             "13": {
-                "Impact": "49", 
+                "Impact": "58", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1269,7 +1257,7 @@
                 "Event": "Body"
             }, 
             "14": {
-                "Impact": "49", 
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-1", 
@@ -1287,6 +1275,15 @@
                 "Event": "Body"
             }, 
             "16": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "3-6", 
+                "Event": "Penalty"
+            }, 
+            "17": {
                 "Impact": "14", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1295,13 +1292,8 @@
                 "Total": "6-6", 
                 "Event": "Body"
             }, 
-            "17": {
-                "Total": "6-6", 
-                "Round": "R-1", 
-                "Time": ":36.00"
-            }, 
-            "18": {
-                "Impact": "49", 
+            "19": {
+                "Impact": "40", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1309,7 +1301,7 @@
                 "Total": "7-6", 
                 "Event": "Body"
             }, 
-            "19": {
+            "20": {
                 "Impact": "24", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -1318,8 +1310,8 @@
                 "Total": "7-6", 
                 "Event": "Body"
             }, 
-            "20": {
-                "Impact": "49", 
+            "21": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-1", 
@@ -1327,7 +1319,7 @@
                 "Total": "10-6", 
                 "Event": "Head"
             }, 
-            "21": {
+            "22": {
                 "Impact": "23", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1336,7 +1328,7 @@
                 "Total": "10-6", 
                 "Event": "Body"
             }, 
-            "22": {
+            "23": {
                 "Impact": "15", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1345,13 +1337,8 @@
                 "Total": "10-6", 
                 "Event": "Body"
             }, 
-            "23": {
-                "Total": "10-6", 
-                "Round": "R-2", 
-                "Time": "1:54.00"
-            }, 
-            "24": {
-                "Impact": "49", 
+            "25": {
+                "Impact": "51", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -1359,8 +1346,17 @@
                 "Total": "11-6", 
                 "Event": "Body"
             }, 
-            "25": {
-                "Impact": "49", 
+            "26": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "12-6", 
+                "Event": "Penalty"
+            }, 
+            "27": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -1368,13 +1364,8 @@
                 "Total": "13-6", 
                 "Event": "Punch"
             }, 
-            "26": {
-                "Total": "13-6", 
-                "Round": "R-2", 
-                "Time": "1:29.00"
-            }, 
-            "27": {
-                "Impact": "49", 
+            "29": {
+                "Impact": "56", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -1382,13 +1373,8 @@
                 "Total": "13-7", 
                 "Event": "Body"
             }, 
-            "28": {
-                "Total": "13-7", 
-                "Round": "R-2", 
-                "Time": "1:05.99"
-            }, 
-            "29": {
-                "Impact": "49", 
+            "31": {
+                "Impact": "52", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -1396,7 +1382,7 @@
                 "Total": "13-8", 
                 "Event": "Body"
             }, 
-            "30": {
+            "32": {
                 "Impact": "18", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1405,13 +1391,8 @@
                 "Total": "13-8", 
                 "Event": "Body"
             }, 
-            "31": {
-                "Total": "13-8", 
-                "Round": "R-2", 
-                "Time": ":39.00"
-            }, 
-            "32": {
-                "Impact": "49", 
+            "34": {
+                "Impact": "55", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -1419,8 +1400,8 @@
                 "Total": "13-9", 
                 "Event": "Body"
             }, 
-            "33": {
-                "Impact": "49", 
+            "35": {
+                "Impact": "-", 
                 "Competitor": "Red", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -1428,7 +1409,7 @@
                 "Total": "16-9", 
                 "Event": "Head"
             }, 
-            "34": {
+            "36": {
                 "Impact": "12", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -1437,13 +1418,8 @@
                 "Total": "16-9", 
                 "Event": "Body"
             }, 
-            "35": {
-                "Total": "16-9", 
-                "Round": "R-3", 
-                "Time": "1:29.00"
-            }, 
-            "36": {
-                "Impact": "49", 
+            "38": {
+                "Impact": "51", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1451,13 +1427,8 @@
                 "Total": "17-9", 
                 "Event": "Body"
             }, 
-            "37": {
-                "Total": "17-9", 
-                "Round": "R-3", 
-                "Time": ":59.99"
-            }, 
-            "38": {
-                "Impact": "49", 
+            "40": {
+                "Impact": "56", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1465,8 +1436,8 @@
                 "Total": "17-10", 
                 "Event": "Body"
             }, 
-            "39": {
-                "Impact": "49", 
+            "41": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1474,7 +1445,7 @@
                 "Total": "17-11", 
                 "Event": null
             }, 
-            "40": {
+            "42": {
                 "Impact": "20", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -1483,7 +1454,7 @@
                 "Total": "17-11", 
                 "Event": "Body"
             }, 
-            "41": {
+            "43": {
                 "Impact": "38", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1492,13 +1463,8 @@
                 "Total": "17-11", 
                 "Event": "Body"
             }, 
-            "42": {
-                "Total": "17-11", 
-                "Round": "R-3", 
-                "Time": ":21.00"
-            }, 
-            "43": {
-                "Impact": "49", 
+            "45": {
+                "Impact": "55", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-3", 
@@ -1506,7 +1472,16 @@
                 "Total": "18-11", 
                 "Event": "Body"
             }, 
-            "44": {
+            "46": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "18-11", 
+                "Event": "Penalty"
+            }, 
+            "47": {
                 "Impact": "20", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1526,11 +1501,6 @@
         "Results": "3-19", 
         "Start": "13:47:48", 
         "Score": {
-            "1": {
-                "Total": "0-0", 
-                "Round": "R-1", 
-                "Time": "1:35.00"
-            }, 
             "2": {
                 "Impact": "52", 
                 "Competitor": "Red", 
@@ -1541,7 +1511,16 @@
                 "Event": "Body"
             }, 
             "3": {
-                "Impact": "52", 
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":04.00", 
+                "Total": "1-0", 
+                "Event": "Penalty"
+            }, 
+            "4": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-1", 
@@ -1549,13 +1528,8 @@
                 "Total": "1-3", 
                 "Event": "Head"
             }, 
-            "4": {
-                "Total": "1-3", 
-                "Round": "R-1", 
-                "Time": "1:13.00"
-            }, 
-            "5": {
-                "Impact": "52", 
+            "6": {
+                "Impact": "41", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1563,13 +1537,8 @@
                 "Total": "1-4", 
                 "Event": "Body"
             }, 
-            "6": {
-                "Total": "1-4", 
-                "Round": "R-1", 
-                "Time": "1:12.00"
-            }, 
-            "7": {
-                "Impact": "52", 
+            "8": {
+                "Impact": "42", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1577,13 +1546,8 @@
                 "Total": "2-4", 
                 "Event": "Body"
             }, 
-            "8": {
-                "Total": "2-4", 
-                "Round": "R-1", 
-                "Time": "1:11.00"
-            }, 
-            "9": {
-                "Impact": "52", 
+            "10": {
+                "Impact": "41", 
                 "Competitor": "Red", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1591,8 +1555,8 @@
                 "Total": "3-4", 
                 "Event": "Body"
             }, 
-            "10": {
-                "Impact": "52", 
+            "11": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1600,7 +1564,7 @@
                 "Total": "3-5", 
                 "Event": "Punch"
             }, 
-            "11": {
+            "12": {
                 "Impact": "36", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1609,7 +1573,16 @@
                 "Total": "3-5", 
                 "Event": "Body"
             }, 
-            "12": {
+            "13": {
+                "Impact": "-", 
+                "Competitor": "Red", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":05.00", 
+                "Total": "3-5", 
+                "Event": "Penalty"
+            }, 
+            "14": {
                 "Impact": "37", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1618,7 +1591,7 @@
                 "Total": "3-5", 
                 "Event": "Body"
             }, 
-            "13": {
+            "15": {
                 "Impact": "37", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -1627,7 +1600,7 @@
                 "Total": "3-5", 
                 "Event": "Body"
             }, 
-            "14": {
+            "16": {
                 "Impact": "19", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -1636,8 +1609,17 @@
                 "Total": "3-5", 
                 "Event": "Body"
             }, 
-            "15": {
-                "Impact": "52", 
+            "17": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":05.00", 
+                "Total": "3-6", 
+                "Event": "Penalty"
+            }, 
+            "18": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1645,7 +1627,16 @@
                 "Total": "3-7", 
                 "Event": "Punch"
             }, 
-            "16": {
+            "19": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":17.00", 
+                "Total": "3-7", 
+                "Event": "Penalty"
+            }, 
+            "20": {
                 "Impact": "20", 
                 "Competitor": "Blue", 
                 "Point": "0", 
@@ -1654,13 +1645,17 @@
                 "Total": "3-7", 
                 "Event": "Body"
             }, 
-            "17": {
+            "21": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":02.00", 
                 "Total": "3-8", 
-                "Round": "R-1", 
-                "Time": ":23.00"
+                "Event": "Penalty"
             }, 
-            "18": {
-                "Impact": "52", 
+            "23": {
+                "Impact": "47", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-1", 
@@ -1668,7 +1663,7 @@
                 "Total": "3-9", 
                 "Event": "Body"
             }, 
-            "19": {
+            "24": {
                 "Impact": "5", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -1677,7 +1672,16 @@
                 "Total": "3-9", 
                 "Event": "Body"
             }, 
-            "20": {
+            "25": {
+                "Impact": "-", 
+                "Competitor": "Blue", 
+                "Point": "+1/2", 
+                "Round": "TOUT", 
+                "Time": ":03.00", 
+                "Total": "3-9", 
+                "Event": "Penalty"
+            }, 
+            "26": {
                 "Impact": "6", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -1686,13 +1690,8 @@
                 "Total": "3-9", 
                 "Event": "Body"
             }, 
-            "21": {
-                "Total": "3-9", 
-                "Round": "REST", 
-                "Time": ":29.99"
-            }, 
-            "22": {
-                "Impact": "52", 
+            "28": {
+                "Impact": "58", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -1700,8 +1699,8 @@
                 "Total": "3-12", 
                 "Event": "Head"
             }, 
-            "23": {
-                "Impact": "52", 
+            "29": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -1709,7 +1708,7 @@
                 "Total": "3-15", 
                 "Event": "Head"
             }, 
-            "24": {
+            "30": {
                 "Impact": "39", 
                 "Competitor": "Red", 
                 "Point": "0", 
@@ -1718,8 +1717,8 @@
                 "Total": "3-15", 
                 "Event": "Body"
             }, 
-            "25": {
-                "Impact": "52", 
+            "31": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "3", 
                 "Round": "R-2", 
@@ -1727,8 +1726,8 @@
                 "Total": "3-18", 
                 "Event": "Head"
             }, 
-            "26": {
-                "Impact": "52", 
+            "32": {
+                "Impact": "-", 
                 "Competitor": "Blue", 
                 "Point": "1", 
                 "Round": "R-2", 
@@ -1736,7 +1735,7 @@
                 "Total": "3-19", 
                 "Event": "Punch"
             }, 
-            "27": {
+            "33": {
                 "Impact": "35", 
                 "Competitor": "Red", 
                 "Point": "0", 
